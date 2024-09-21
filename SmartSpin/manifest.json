@@ -1,0 +1,10 @@
+{
+  "Name": "Smart Spin - Pre-fill Optimal Wager",
+  "Author": "Jonathan Feenstra",
+  "Version": "1.0.0",
+  "Description": "Pre-fill Stardew Valley Fair Spinning Wheel wager with optimal amount.",
+  "UniqueID": "JonathanFeenstra.SmartSpin",
+  "EntryDll": "SmartSpin.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:28042" ]
+}
