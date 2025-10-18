@@ -1,0 +1,8 @@
+﻿{
+  "green-probability-name": "Wahrscheinlichkeit auf Grün zu landen",
+  "green-probability-tooltip": "Legt die Grundwahrscheinlichkeit fest, auf Grün zu landen, ohne Glücksbeschleunigungen zu berücksichtigen.",
+  "enable-lucky-speedups-name": "Mit Glücksbeschleunigungen rechnen",
+  "enable-lucky-speedups-tooltip": "Wenn diese Option aktiviert ist, werden die Wahrscheinlichkeiten für Glücksbeschleunigungen in die Gesamtwahrscheinlichkeitsberechnung einbezogen.",
+  "kelly-fraction-multiplier-name": "Kelly-Fraktionsmultiplikator",
+  "kelly-fraction-multiplier-tooltip": "Passt den Einsatz an, indem der Kelly-Faktor mit diesem Wert multipliziert wird. Erhöhen Sie den Wert für aggressivere Einsätze, verringern Sie ihn für konservativere Einsätze."
+}

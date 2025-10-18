@@ -1,0 +1,8 @@
+﻿{
+  "green-probability-name": "Probabilidad de verde",
+  "green-probability-tooltip": "Establece la probabilidad base de caer en verde, sin tener en cuenta las aceleraciones de suerte.",
+  "enable-lucky-speedups-name": "Calcular con aceleraciones de suerte",
+  "enable-lucky-speedups-tooltip": "Cuando está habilitado, las probabilidades de las aceleraciones de suerte se incluirán en el cálculo de la probabilidad general.",
+  "kelly-fraction-multiplier-name": "Multiplicador de fracción de Kelly",
+  "kelly-fraction-multiplier-tooltip": "Ajusta la apuesta multiplicando la fracción de Kelly por este valor. Aumenta para apuestas más agresivas, disminuye para apuestas más conservadoras."
+}

@@ -1,0 +1,8 @@
+﻿{
+  "green-probability-name": "Green probability",
+  "green-probability-tooltip": "Sets the base probability of landing on green, not accounting for lucky speedups.",
+  "enable-lucky-speedups-name": "Calculate with lucky speedups",
+  "enable-lucky-speedups-tooltip": "When enabled, the probabilities of lucky speedups will be included in the overall probability calculation.",
+  "kelly-fraction-multiplier-name": "Kelly fraction multiplier",
+  "kelly-fraction-multiplier-tooltip": "Adjusts the wager by multiplying the Kelly fraction by this value. Increase for more aggressive betting, decrease for more conservative betting."
+}
